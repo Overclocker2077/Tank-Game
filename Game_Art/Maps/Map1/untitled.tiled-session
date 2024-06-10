@@ -1,0 +1,113 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Map1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Cobblestone.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Cobblestone_87x87.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Coble_Stone_87x87.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Crater.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Crater_88x88.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1..tmx": {
+            "scale": 0.23102272727272727,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1292.080668962125,
+                "y": 883.0300049188392
+            }
+        },
+        "Map1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 951.3333333333333,
+                "y": 626.6666666666666
+            }
+        },
+        "Map1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stone_Crater_87x87.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bomb_crater_grass_87x87.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grass.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grass_on_fire1_87x87.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "paving 5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/dbmur/OneDrive/Documents/Code 2023-2024/Python/Ukraine war Game/Game_Art/Maps",
+    "last.externalTilesetPath": "C:/Users/dbmur/OneDrive/Documents/Code 2023-2024/Python/Ukraine war Game/Game_Art/Maps",
+    "last.imagePath": "C:/Users/dbmur/OneDrive/Documents/Code 2023-2024/Python/Ukraine war Game/Game_Art/Maps",
+    "map.height": 100,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 87,
+    "map.tileWidth": 87,
+    "map.width": 100,
+    "openFiles": [
+        "Map1.tmx",
+        "grass_on_fire1_87x87.tsx",
+        "bomb_crater_grass_87x87.tsx",
+        "Coble_Stone_87x87.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "Coble_Stone_87x87.tsx",
+        "bomb_crater_grass_87x87.tsx",
+        "grass_on_fire1_87x87.tsx",
+        "Map1.tmx",
+        "Map1..tmx",
+        "Stone_Crater_87x87.tsx",
+        "paving 5.tsx",
+        "Cobblestone_87x87.tsx",
+        "Cobblestone.tsx",
+        "grass.tsx",
+        "Crater_88x88.tsx",
+        "Crater.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 87,
+        "width": 87
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 522.3333333333334,
+                "y": 1740.6666666666665
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/dbmur/OneDrive/Documents/Code 2023-2024/Python/Ukraine war Game/Game_Art/Maps/Map2",
+    "map.height": 60,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "untitled.tmx",
+        "grass.tsx"
+    ],
+    "project": "Map2.tiled-project",
+    "recentFiles": [
+        "grass.tsx",
+        "untitled.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 88,
+        "width": 88
+    }
+}

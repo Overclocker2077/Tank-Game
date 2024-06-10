@@ -1,0 +1,35 @@
+{
+    "activeFile": "Stone_Crater_87x87.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Cobblestone_87x87.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Coble_Stone_87x87.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stone_Crater_87x87.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "grass.tsx",
+        "Coble_Stone_87x87.tsx",
+        "Stone_Crater_87x87.tsx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "grass.tsx",
+        "Coble_Stone_87x87.tsx",
+        "Stone_Crater_87x87.tsx",
+        "Cobblestone_87x87.tsx"
+    ]
+}
